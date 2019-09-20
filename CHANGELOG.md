@@ -1,3 +1,3 @@
-## [0.0.1] - TODO: Add release date.
+## [0.0.1] - implement it
 
-* TODO: Describe initial release.
+* ref from python and java implement

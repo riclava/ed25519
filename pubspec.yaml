@@ -1,8 +1,8 @@
 name: ed25519
-description: A new Flutter package project.
+description: A dart implement of ed25519 referenced from python and java.
 version: 0.0.1
-author:
-homepage:
+author: riclava <riclavaz@gmail.com>
+homepage: https://github.com/riclava/ed25519
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
@@ -10,6 +10,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  blake2b: ^0.1.1
+  hex: ^0.1.2
 
 dev_dependencies:
   flutter_test:
